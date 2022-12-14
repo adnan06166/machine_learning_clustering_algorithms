@@ -3,6 +3,7 @@
 
 # Hiyerarşik Kümeleme Algoritması Nedir?
 
+
 ![alt text](https://miro.medium.com/max/770/1*0BDVA8JPsSHivx7e6SEGtw.png)
 
 Hiyerarşik kümeleme adındanda anlaşılacağı üzere bir kümeleme algoritmasıdır. Agglomerative ( Parçadan bütüne ) ve Divisive ( Bütünden parçaya ) olarak iki farklı varyasyonu vardır.
@@ -19,4 +20,8 @@ Agglomerative ( Yığınsal ) hiyerarşik kümelemede mesafe hesaplamak için bi
 
 Bunların dışında ward, weighted, centroid ve median yöntemleri vardır. Seçilen yöntem sonucu etkiler.
 
+
+## Dendrogram ( Öbek Ağacı )
+
+![alt text](https://miro.medium.com/max/628/1*PvGL2AqONrf1NMYsvx7O1w.png))
 
