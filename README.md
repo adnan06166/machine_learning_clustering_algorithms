@@ -43,5 +43,11 @@ AB —CDFE kümelenmiş (ABCDEF)
 
 ![alt text](https://miro.medium.com/max/704/1*YDUzObiwiI9zbcnx_0hang.png)
 
+## Dendrogram
+
+
+![alt text](https://miro.medium.com/max/704/1*VdLviVrq8ksw42x9TX6oDw.png)
+
+
                                                
 
