@@ -49,5 +49,12 @@ Dendrogram, benzer veri kümeleri arasındaki ilişkileri veya hiyerarşik küme
 ![alt text](https://miro.medium.com/max/704/1*VdLviVrq8ksw42x9TX6oDw.png)
 
 
+## Kaynakça
+
+- https://medium.com/@ekrem.hatipoglu/machine-learning-clustering-k%C3%BCmeleme-k-means-algorithm-part-13-be33aeef4fc8
+- https://erdincuzun.com/makine_ogrenmesi/hiyerarsik-kumeleme-hierarchical-clustering-odev-benzerlikleri-uzerinden-kopya-gruplarini-bulma/
+- https://www.veribilimiokulu.com/hiyerarsik-kumeleme/
+
+
                                                
 
