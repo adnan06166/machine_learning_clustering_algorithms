@@ -41,3 +41,5 @@ AB —CDFE kümelenmiş (ABCDEF)
 
 ![alt text](https://miro.medium.com/max/704/1*YDUzObiwiI9zbcnx_0hang.png)
 
+                                               Kümeleme Sonucu
+
