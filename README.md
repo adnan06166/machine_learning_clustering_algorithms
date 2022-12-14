@@ -30,9 +30,13 @@ Bunların dışında ward, weighted, centroid ve median yöntemleri vardır. Se�
 Dendrogram, benzer veri kümeleri arasındaki ilişkileri veya hiyerarşik kümelenmeyi gösteren bir ağaç diyagramıdır. Kaç tane küme oluşturacağımız bilgisini verir. En uzun bacaktan çizilen yatay çizgi küme sayısını verir. Dendrogram şemasını yorumlarsak kümelenme şekli aşağıdaki gibidir.
 
 E — F kümelenmiş (EF)
+
 A — B kümelenmiş (AB)
+
 D — EF kümelenmiş (DEF)
+
 C — DEF kümelenmiş (CDEF)
+
 AB —CDFE kümelenmiş (ABCDEF)
 
 ![alt text](https://miro.medium.com/max/704/1*YDUzObiwiI9zbcnx_0hang.png)
