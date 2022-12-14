@@ -11,11 +11,11 @@ Agglomerative varyasyonunu anlatmaya çalışırsak ilk önce tüm veriler bir k
 
 Agglomerative ( Yığınsal ) hiyerarşik kümelemede mesafe hesaplamak için bir çok yol vardır. Dendrogram oluşturmada da kullanılırlar.
 
-### Single Linkage : İki küme arasındaki en yakın mesafeyi hesaplar.
+**Single Linkage** : İki küme arasındaki en yakın mesafeyi hesaplar.
 
-### Complete Linkage: İki küme arasındaki en uzak mesafeyi hesaplar.
+**Complete Linkage**: İki küme arasındaki en uzak mesafeyi hesaplar.
 
-### Average Linkage: İki küme arasındaki ortalama mesafeyi hesaplar.
+**Average Linkage**: İki küme arasındaki ortalama mesafeyi hesaplar.
 
 Bunların dışında ward, weighted, centroid ve median yöntemleri vardır. Seçilen yöntem sonucu etkiler.
 
