@@ -39,7 +39,7 @@ C — DEF kümelenmiş (CDEF)
 
 AB —CDFE kümelenmiş (ABCDEF)
 
-Kümeleme Sonucu
+## Kümeleme Sonucu
 
 ![alt text](https://miro.medium.com/max/704/1*YDUzObiwiI9zbcnx_0hang.png)
 
